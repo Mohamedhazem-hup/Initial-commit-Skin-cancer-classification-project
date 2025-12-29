@@ -126,10 +126,6 @@ Quick demo interface with:
 * Graduation & portfolio projects
 
 ---
-
-## 👨‍💻 Author
-
-**Mohammed Hazem**
 ML Engineer – Computer Vision & Deep Learning
 Egypt 🇪🇬
 
